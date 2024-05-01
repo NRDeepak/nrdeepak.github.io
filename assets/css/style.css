@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(3, 132, 155, 0.4); 
   border-radius: 50% !important;
 }
 
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #00214d;
 }
 
 /* main blockqoute */
@@ -664,7 +664,7 @@ small {
   }
   .card .card-content .card-title {
     font-size: 20px;
-    line-height: 24px;
+    line-height: 24px;https://github.com/NRDeepak/nrdeepak.github.io/blob/main/assets/css/style.css
   }
   #experience span.card-title {
     text-align: center;
